@@ -1,6 +1,6 @@
-package io.github.anotherme17.aviator.spring.support.announce;
+package cn.another17.aviator.spring.support.announce;
 
-import io.github.anotherme17.aviator.spring.support.config.SpringAviatorConfig;
+import cn.another17.aviator.spring.support.config.SpringAviatorConfig;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.*;

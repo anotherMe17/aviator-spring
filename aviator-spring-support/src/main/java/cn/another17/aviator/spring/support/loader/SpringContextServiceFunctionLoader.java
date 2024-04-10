@@ -1,10 +1,10 @@
-package io.github.anotherme17.aviator.spring.support.loader;
+package cn.another17.aviator.spring.support.loader;
 
+import cn.another17.aviator.spring.support.function.SpringBeanFunction;
 import com.google.common.cache.Cache;
 import com.google.common.cache.CacheBuilder;
 import com.googlecode.aviator.runtime.type.AviatorFunction;
 import com.googlecode.aviator.spring.SpringContextFunctionLoader;
-import io.github.anotherme17.aviator.spring.support.function.SpringBeanFunction;
 import org.springframework.context.ApplicationContext;
 
 import java.util.Optional;

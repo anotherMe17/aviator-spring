@@ -1,7 +1,7 @@
-package io.github.anotherme17.aviator.spring.support.config;
+package cn.another17.aviator.spring.support.config;
 
+import cn.another17.aviator.spring.support.loader.SpringContextServiceFunctionLoader;
 import com.googlecode.aviator.AviatorEvaluator;
-import io.github.anotherme17.aviator.spring.support.loader.SpringContextServiceFunctionLoader;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

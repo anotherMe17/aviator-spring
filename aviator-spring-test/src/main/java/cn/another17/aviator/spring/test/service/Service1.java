@@ -1,4 +1,4 @@
-package io.github.anotherme17.aviator.spring.test.service;
+package cn.another17.aviator.spring.test.service;
 
 import org.springframework.stereotype.Service;
 

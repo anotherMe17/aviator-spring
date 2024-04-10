@@ -1,8 +1,8 @@
-package io.github.anotherme17.aviator.spring.test;
+package cn.another17.aviator.spring.test;
 
 import com.googlecode.aviator.AviatorEvaluator;
 import com.googlecode.aviator.Expression;
-import io.github.anotherme17.aviator.spring.test.service.Service1;
+import cn.another17.aviator.spring.test.service.Service1;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

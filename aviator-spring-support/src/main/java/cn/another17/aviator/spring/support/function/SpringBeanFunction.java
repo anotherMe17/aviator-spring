@@ -1,4 +1,4 @@
-package io.github.anotherme17.aviator.spring.support.function;
+package cn.another17.aviator.spring.support.function;
 
 import com.googlecode.aviator.runtime.function.AbstractFunction;
 import com.googlecode.aviator.runtime.function.FunctionUtils;
